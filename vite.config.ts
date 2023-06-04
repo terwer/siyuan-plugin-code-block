@@ -3,6 +3,7 @@ import { defineConfig, loadEnv } from "vite"
 import minimist from "minimist"
 import { viteStaticCopy } from "vite-plugin-static-copy"
 import livereload from "rollup-plugin-livereload"
+import zipPack from "vite-plugin-zip-pack"
 import fg from "fast-glob"
 
 const args = minimist(process.argv.slice(2))
@@ -90,7 +91,13 @@ export default defineConfig({
                 },
               },
             ]
-          : []),
+          : [
+              zipPack({
+                inDir: "./dist",
+                outDir: "./",
+                outFileName: "package.zip",
+              }),
+            ]),
       ],
 
       // make sure to externalize deps that shouldn't be bundled
