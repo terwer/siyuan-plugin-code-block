@@ -6,6 +6,32 @@
 
 模仿Mac风格的代码块风格，并且对Rem Craft、Savor、Dark+、HBuilderX等热门主题进行专门适配
 
+## 效果展示
+
+### Zhihu
+
+备注：这个代码块样式就是从我的 [Zhihu主题](https://github.com/terwer/siyuan-theme-zhihu) 抠出来的。[手动狗头]
+
+您可以卸载此插件，直接使用 Zhihu主题，当然，您也可以使用此插件，用以下经过适配的主题。PS：默认主题也支持。
+
+![](./assets/zhihu.png)
+
+### Rem Craft
+
+![](./assets/rem-craft.png)
+
+## Savor
+
+![](./assets/savor.png)
+
+### Dark+
+
+![](./assets/dark-plus.png)
+
+### HBuilderX-Light
+
+![](./assets/hbx.png)
+
 ## FAQ
 
 * Q1：怎么使用？需要操作按钮吗？
