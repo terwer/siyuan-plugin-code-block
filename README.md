@@ -6,6 +6,32 @@
 
 Imitate the Mac-style code block style, and specially adapt to popular themes such as Rem Craft, Savor, Dark+, HBuilderX, etc.️
 
+## Show results
+
+### Zhihu
+
+Remarks: This code block style is extracted from my [Zhihu theme](https://github.com/terwer/siyuan-theme-zhihu). [Manual dog head]
+
+You can uninstall this plugin and use the Zhihu theme directly. Of course, you can also use this plugin to use the following adapted themes. PS: The default theme is also supported.
+
+![](./assets/zhihu.png)
+
+### Rem Craft
+
+![](./assets/rem-craft.png)
+
+## Savor
+
+![](./assets/savor.png)
+
+### Dark+
+
+![](./assets/dark-plus.png)
+
+### HBuilderX-Light
+
+![](./assets/hbx.png)
+
 ## FAQ
 
 * Q1: How to use? Need an action button?
