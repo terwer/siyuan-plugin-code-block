@@ -1,15 +1,25 @@
-// 基本变量
-@import "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/conf/appearance/themes/Zhihu/style/common/vars/vars-zhi"
+// 通用变量定义
+@import "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/conf/appearance/themes/Zhihu/style/common/vars/vars-common"
 
-//// web字体
-//@import "../../../styles/common/fonts/webfont/opensans"
-//
-//// 基本样式
-//@import "../../../styles/common/basic"
-//
-//// 重写代码块样式
-//:root
-//  --zhi-font-family-code "Open Sans", "JetBrains Mono", "-apple-system", "Microsoft YaHei", "Times New Roman", , "LXGW WenKai", "方正北魏楷书_GBK"
-//
+// web字体
+// fonts = lxgw + opensans
+@import "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/conf/appearance/themes/Zhihu/style/common/fonts/webfont/webfont.css"
+
+// ---------------------------------------------------------------------------------------------------------------------
+// 整体背景、字体颜色
+// _font-family-mono = "Open Sans", "LXGW WenKai", "JetBrains Mono", "-apple-system", "Microsoft YaHei", "Times New Roman", "方正北魏楷书_GBK"
+// @import "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/conf/appearance/themes/Zhihu/style/theme/basic"
+
+// 重写样式
+body
+  // 字体
+  --b3-font-family-code _font-family-mono
+
 // 代码块
 @import "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/conf/appearance/themes/Zhihu/style/theme/code-block"
+
+// 代码块适配
+@import "./code-block/code-block-savor"
+@import "./code-block/code-block-rem-craft"
+@import "./code-block/code-block-dark-plus-plus"
+@import "./code-block/code-block-hbuildx-light"

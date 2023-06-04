@@ -8,23 +8,11 @@ Imitate the Mac-style code block style, and specially adapt to popular themes su
 
 ## FAQ
 
-* Q1: What is the origin of this plugin?
+* Q1: How to use? Need an action button?
 
-  A1: Refer to [Automatically add pinyin as aliases to new files](https://github.com/siyuan-note/siyuan/issues/8396). If the alias is automatically generated, after the alias search is enabled, the efficiency can be greatly improved. Because, you think, typing an English character or pinyin must be faster than Chinese characters, right?
+  A1: This plugin has no operation buttons. After downloading and enabling the plugin, open the document, and the code block will be automatically beautified into Mac style. Gone.
 
-* Q2: Can it be automatically generated when creating a new document?
-
-  A2: Yes. v0.0.3 supports automatic generation when renaming the title. Of course, you can also click the button on the top bar to generate.
-
-* Q3: Why can't the automatically generated key be changed?
-
-  A3: This is for compatibility with subsequent publishing tools, and this key is actually only concerned by developers. Ordinary users have no obvious perception, it is just a convention. Of course, if there is a strong demand for changes, subsequent versions may also consider supporting custom named keys. Note: The key of non-custom attribute cannot be modified.
-
-* Q4: How to enable alias search?
-
-  A4: Go to `Settings` -> `Search`, you can find the switch to enable alias search, you can choose naming, alias and custom attributes.
-
-  ![](./assets/slug-setting.png)
+  If you don't want to use this plugin, you can directly use [Zhihu Theme](https://github.com/terwer/siyuan-theme-zhihu) or dig out the [Code Block](https://github.com/terwer/siyuan-theme-zhihu/tree/main/style/theme/code-block) related css.
 
 ## Donate
 
