@@ -10,7 +10,7 @@ Imitate the Mac-style code block style, and specially adapt to popular themes su
 
 * Q1: How to use? Need an action button?
 
-  A1: This plugin has no operation buttons. After downloading and enabling the plug-in, open the document, and the code block will be automatically beautified into Mac style. Gone.
+  A1: This plugin has no operation buttons. After downloading and enabling the plugin, open the document, and the code block will be automatically beautified into Mac style. Gone.
 
   If you don't want to use this plugin, you can directly use [Zhihu Theme](https://github.com/terwer/siyuan-theme-zhihu) or dig out the [Code Block](https://github.com/terwer/siyuan-theme-zhihu/tree/main/style/theme/code-block) related css.
 
