@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^1.2.0
     version: 1.2.0(@nuxt/eslint-config@0.1.1)(@typescript-eslint/eslint-plugin@5.59.8)(astro-eslint-parser@0.13.3)(eslint-config-prettier@8.8.0)(eslint-config-turbo@1.10.1)(eslint-plugin-prettier@4.2.1)(eslint-plugin-svelte@2.29.0)(eslint-plugin-vue@9.14.1)(eslint@8.41.0)(prettier-plugin-svelte@2.10.1)(prettier@2.8.8)(typescript@5.0.4)
   '@tsconfig/svelte':
-    specifier: ^4.0.1
-    version: 4.0.1
+    specifier: ^5.0.1
+    version: 5.0.1
   '@types/lodash.debounce':
     specifier: ^4.0.7
     version: 4.0.7
@@ -479,8 +479,8 @@ packages:
     resolution: {integrity: sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==}
     dev: true
 
-  /@tsconfig/svelte@4.0.1:
-    resolution: {integrity: sha512-B+XlGpmuAQzJqDoBATNCvEPqQg0HkO7S8pM14QDI5NsmtymzRexQ1N+nX2H6RTtFbuFgaZD4I8AAi8voGg0GLg==}
+  /@tsconfig/svelte@5.0.1:
+    resolution: {integrity: sha512-MNzMnxEpseWdp1d10RwY+OkHnlEo/hLQ1c8nQvA8r2d22I3tQy2lqGjQTiJAwYLPAt2m4S3FKqXlQno9v7cG4A==}
     dev: true
 
   /@types/json-schema@7.0.12:
