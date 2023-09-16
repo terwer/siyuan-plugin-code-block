@@ -6,7 +6,7 @@
   "repository": "terwer/siyuan-plugin-custom-slug",
   "homepage": "https://github.com/terwer/siyuan-plugin-custom-slug",
   "author": "terwer",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "scripts": {
     "serve": "vite",
     "dev": "vite build --watch",
