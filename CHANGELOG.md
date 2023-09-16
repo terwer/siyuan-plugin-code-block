@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.0...v1.0.1) (2023-09-16)
+### Bug Fixes
+* 适配jupyter插件 ([2ad0603](https://github.com/terwer/siyuan-plugin-code-block/commit/2ad06035d0c32d305be71c8e8679aef9de0ba584))
+### Miscellaneous
+* 优化预览图 ([ba1e28c](https://github.com/terwer/siyuan-plugin-code-block/commit/ba1e28c176015edd39fdf0b16ccd57392fd76208))
+* 更新依赖 ([fcc6997](https://github.com/terwer/siyuan-plugin-code-block/commit/fcc6997e8ab0fb6ca5ebba807deb3f7d7049cf8e))
 ## 1.0.0 (2023-06-04)
 ### Features
 * 代码块美化第一个版本 ([c5c5864](https://github.com/terwer/siyuan-plugin-code-block/commit/c5c58647d923a3a9f6122741284de1aa412415d1))
