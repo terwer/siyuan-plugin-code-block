@@ -8,7 +8,6 @@
 * [#21](https://github.com/terwer/siyuan-plugin-code-block/issues/21) 支持所有平台 ([d187f7a](https://github.com/terwer/siyuan-plugin-code-block/commit/d187f7a291d65be5b541157457033e10e296d16f))
 * [#21](https://github.com/terwer/siyuan-plugin-code-block/issues/21) 支持所有平台 ([9bf2a61](https://github.com/terwer/siyuan-plugin-code-block/commit/9bf2a614bd988f0da351fe01c9c3a3f6388fbb15))
 * [#7](https://github.com/terwer/siyuan-plugin-code-block/issues/7) 插件的字体设置会覆盖代码片段中的字体设置 ([ba90b4e](https://github.com/terwer/siyuan-plugin-code-block/commit/ba90b4e5705d413c65fc854f634e79b8eee655cc))
-* 适配 Dark+、Savor ([51078de](https://github.com/terwer/siyuan-plugin-code-block/commit/51078de54a1a8b6211563b84f8eec5a4c9c69238))
 * 适配 Dark+、Savor ([a782a1c](https://github.com/terwer/siyuan-plugin-code-block/commit/a782a1c07303e61335dfa9c4e4786e30cf78704e))
 * 适配 Rem Craft ([f173bc4](https://github.com/terwer/siyuan-plugin-code-block/commit/f173bc40f5abcb60c5f8f7abb0787780176449f1))
 
