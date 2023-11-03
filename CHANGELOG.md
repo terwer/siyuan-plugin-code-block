@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.2](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.1...v1.0.2) (2023-11-03)
+
+
+### Bug Fixes
+
+* [#21](https://github.com/terwer/siyuan-plugin-code-block/issues/21) 支持所有平台 ([d187f7a](https://github.com/terwer/siyuan-plugin-code-block/commit/d187f7a291d65be5b541157457033e10e296d16f))
+* [#21](https://github.com/terwer/siyuan-plugin-code-block/issues/21) 支持所有平台 ([9bf2a61](https://github.com/terwer/siyuan-plugin-code-block/commit/9bf2a614bd988f0da351fe01c9c3a3f6388fbb15))
+* [#7](https://github.com/terwer/siyuan-plugin-code-block/issues/7) 插件的字体设置会覆盖代码片段中的字体设置 ([ba90b4e](https://github.com/terwer/siyuan-plugin-code-block/commit/ba90b4e5705d413c65fc854f634e79b8eee655cc))
+* 适配 Dark+、Savor ([a782a1c](https://github.com/terwer/siyuan-plugin-code-block/commit/a782a1c07303e61335dfa9c4e4786e30cf78704e))
+* 适配 Rem Craft ([f173bc4](https://github.com/terwer/siyuan-plugin-code-block/commit/f173bc40f5abcb60c5f8f7abb0787780176449f1))
+
 ## [1.0.1](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.0...v1.0.1) (2023-09-16)
 ### Bug Fixes
 * 适配jupyter插件 ([2ad0603](https://github.com/terwer/siyuan-plugin-code-block/commit/2ad06035d0c32d305be71c8e8679aef9de0ba584))
