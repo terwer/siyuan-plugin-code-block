@@ -1,10 +1,10 @@
 {
-  "name": "siyuan-plugin-custom-slug",
+  "name": "siyuan-plugin-code-block",
   "version": "1.0.3",
   "type": "module",
   "description": "I heard give me a new name, it will be easier for you to find me",
-  "repository": "terwer/siyuan-plugin-custom-slug",
-  "homepage": "https://github.com/terwer/siyuan-plugin-custom-slug",
+  "repository": "terwer/siyuan-plugin-code-block",
+  "homepage": "https://github.com/terwer/siyuan-plugin-code-block",
   "author": "terwer",
   "license": "MIT",
   "scripts": {
