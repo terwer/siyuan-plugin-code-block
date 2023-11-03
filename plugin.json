@@ -7,10 +7,17 @@
   "backends": [
     "windows",
     "linux",
-    "darwin"
+    "darwin",
+    "docker",
+    "android",
+    "ios"
   ],
   "frontends": [
-    "desktop"
+    "desktop",
+    "desktop-window",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile"
   ],
   "displayName": {
     "en_US": "Code Block",
