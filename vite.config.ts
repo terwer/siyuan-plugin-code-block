@@ -11,7 +11,10 @@ const isWatch = args.watch || args.w || false
 const isWindows = process.platform === "win32"
 let devDistDir = "/Users/terwer/Documents/mydocs/SiYuanWorkspace/public/data/plugins/siyuan-plugin-code-block"
 if (isWindows) {
-  devDistDir = "C:\\Users\\terwer\\Documents\\mydocs\\SiyuanWorkspace\\public\\data\\plugins\\siyuan-plugin-code-block"
+  // Home
+  // devDistDir = "C:\\Users\\terwer\\Documents\\mydocs\\SiyuanWorkspace\\test\\data\\plugins\\siyuan-plugin-code-block"
+  // PDWin11
+  devDistDir = "C:\\Users\\terwer\\Documents\\mydocs\\SiyuanWorkspace\\test\\data\\plugins\\siyuan-plugin-code-block"
 }
 const distDir = isWatch ? devDistDir : "./dist"
 
