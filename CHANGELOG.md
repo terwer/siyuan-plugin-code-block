@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.3](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.2...v1.0.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* 修复构建脚本错误 ([4feebfe](https://github.com/terwer/siyuan-plugin-code-block/commit/4feebfe5f8ef078e4d48acd8d5b6ac6bb06062d8))
+* 修复构建脚本错误 ([10dccf8](https://github.com/terwer/siyuan-plugin-code-block/commit/10dccf8c7ff3ba2d020693978899e8954d127bf6))
+* 适配 Dark+ ([6af0880](https://github.com/terwer/siyuan-plugin-code-block/commit/6af0880b9d8e90b1b11187828882206255a2c465))
+
+
+### Miscellaneous
+
+* **main:** release 1.0.2 ([8f9caac](https://github.com/terwer/siyuan-plugin-code-block/commit/8f9caac218e5edfc539cec4fb44cef2dafdbe511))
+
 ## [1.0.2](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.1...v1.0.2) (2023-11-03)
 
 
