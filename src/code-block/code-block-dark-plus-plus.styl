@@ -8,6 +8,7 @@ html[data-theme-mode="light"][data-light-theme="Dark+"]
     background-color: var(--custom-popover-function-menu-background-color);
     backdrop-filter: var(--custom-backdrop-popover-filter);
     height 32px
+    margin-left -5px
 
   .b3-typography .code-block .protyle-action .protyle-action__language
   .protyle-wysiwyg .code-block .protyle-action .protyle-action__language
@@ -18,8 +19,14 @@ html[data-theme-mode="light"][data-light-theme="Dark+"]
   .protyle-wysiwyg .code-block .protyle-action .protyle-action__menu
     margin-top 0.3rem
 
+  .protyle-wysiwyg [data-node-id].code-block
+    margin 0 !important
+
   .protyle-wysiwyg [data-node-id].code-block > .protyle-linenumber__rows
-    padding-top 0 !important
+    padding-top 8 !important
+    margin-top 0 !important
+
+// ===================================================================
 
 html[data-theme-mode="dark"][data-dark-theme="Dark+"]
   .code-block
@@ -29,6 +36,7 @@ html[data-theme-mode="dark"][data-dark-theme="Dark+"]
     position absolute
     background var(--zhi-code-tab-bg)
     height 32px
+    margin-left -5px
 
   .b3-typography .code-block .protyle-action .protyle-action__language
   .protyle-wysiwyg .code-block .protyle-action .protyle-action__language
@@ -39,5 +47,9 @@ html[data-theme-mode="dark"][data-dark-theme="Dark+"]
   .protyle-wysiwyg .code-block .protyle-action .protyle-action__menu
     margin-top 0.3rem
 
+  .protyle-wysiwyg [data-node-id].code-block
+    margin 0 !important
+
   .protyle-wysiwyg [data-node-id].code-block > .protyle-linenumber__rows
-    padding-top 0 !important
+    padding-top 8 !important
+    margin-top 0 !important
