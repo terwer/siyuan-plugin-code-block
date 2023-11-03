@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.2...v1.0.3) (2023-11-03)
+
+
+### Miscellaneous
+
+* **main:** release 1.0.2 ([8f9caac](https://github.com/terwer/siyuan-plugin-code-block/commit/8f9caac218e5edfc539cec4fb44cef2dafdbe511))
+
 ## [1.0.2](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.1...v1.0.2) (2023-11-03)
 
 
