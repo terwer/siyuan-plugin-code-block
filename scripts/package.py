@@ -14,7 +14,7 @@ if __name__ == "__main__":
     v = data["version"]
 
     src_folder = dist_folder
-    tmp_folder_name = "./siyuan-importer"
+    tmp_folder_name = "./siyuan-plugin-code-block"
     build_zip_path = "./build"
     build_zip_name = "siyuan-plugin-code-block-" + v + ".zip"
 
