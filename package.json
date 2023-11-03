@@ -1,6 +1,6 @@
 {
   "name": "siyuan-plugin-custom-slug",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "I heard give me a new name, it will be easier for you to find me",
   "repository": "terwer/siyuan-plugin-custom-slug",
