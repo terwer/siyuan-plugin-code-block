@@ -30,7 +30,7 @@
     "rollup-plugin-livereload": "^2.0.5",
     "siyuan": "^0.7.9",
     "stylus": "^0.59.0",
-    "svelte": "^3.59.2",
+    "svelte": "^4.2.5",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
     "vite": "^4.5.0",
