@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.3...v1.0.4) (2025-11-13)
+
+
+### Bug Fixes
+
+* compress icons ([9e0cc68](https://github.com/terwer/siyuan-plugin-code-block/commit/9e0cc687616f37d65b3e3a930b7ca0b556d779da))
+* 适配 Dark+ ([7318e31](https://github.com/terwer/siyuan-plugin-code-block/commit/7318e31108200af159266de37507fef211822099))
+
 ## [1.0.3](https://github.com/terwer/siyuan-plugin-code-block/compare/v1.0.2...v1.0.3) (2023-11-03)
 ### Bug Fixes
 * 修复构建脚本错误 ([10dccf8](https://github.com/terwer/siyuan-plugin-code-block/commit/10dccf8c7ff3ba2d020693978899e8954d127bf6))
